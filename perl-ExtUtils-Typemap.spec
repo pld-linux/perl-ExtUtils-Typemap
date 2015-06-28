@@ -8,7 +8,7 @@
 Summary:	ExtUtils::Typemap - Read/Write/Modify Perl/XS typemap files
 Name:		perl-ExtUtils-Typemap
 Version:	1.00
-Release:	0.1
+Release:	1
 License:	Perl
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/ExtUtils/%{pdir}-%{pnam}-%{version}.tar.gz
