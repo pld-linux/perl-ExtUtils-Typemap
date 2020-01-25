@@ -4,7 +4,6 @@
 #
 %define		pdir	ExtUtils
 %define		pnam	Typemap
-%include	/usr/lib/rpm/macros.perl
 Summary:	ExtUtils::Typemap - Read/Write/Modify Perl/XS typemap files
 Name:		perl-ExtUtils-Typemap
 Version:	1.00
